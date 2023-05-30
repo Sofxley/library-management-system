@@ -1,0 +1,211 @@
+"book_id","title","publisher_id","category_id","language_id"
+197,"India's Legal System",NULL,3,46
+198,"Justice, Judiciary and Democracy",NULL,3,46
+195,"Murphy's Law",NULL,6,46
+196,"Political Philosophers",NULL,6,46
+193,"Free Will",18,6,46
+194,"How to Think Like Sherlock Holmes",4,6,46
+64,"History of England, Foundation",NULL,8,46
+68,"Mossad",NULL,8,46
+74,"Jim Corbett Omnibus",NULL,8,46
+76,"City of Djinns",NULL,8,46
+80,"Christmas Carol, A",NULL,8,46
+81,"Ropemaker, The",NULL,8,46
+82,"Idiot, The",NULL,8,46
+87,"Rosy is My Relative",NULL,8,46
+90,"Age of the Warrior, The",NULL,8,46
+93,"Deceiver, The",NULL,8,46
+94,"Phantom of Manhattan, The",NULL,8,46
+96,"From Beirut to Jerusalem",NULL,8,46
+97,"Case of the Lame Canary, The",NULL,8,46
+100,"Doctor on the Brain",NULL,8,46
+108,"Eyeless in Gaza",NULL,8,46
+109,"Talking Straight",NULL,8,46
+112,"Arthashastra, The",NULL,8,46
+116,"Girl who played with Fire",NULL,8,46
+117,"Girl who kicked the Hornet's Nest",NULL,8,46
+118,"Girl with the Dragon Tattoo",NULL,8,46
+119,"Prince, The",NULL,8,46
+120,"Trembling of a Leaf, The",NULL,8,46
+121,"Moon and Sixpence, The",NULL,8,46
+125,"Half A Life",NULL,8,46
+128,"Discovery of India, The",NULL,8,46
+129,"Animal Farm",NULL,8,46
+131,"We the People",NULL,8,46
+132,"We the Nation",NULL,8,46
+136,"Philosophy: Who Needs It",NULL,8,46
+137,"Ayn Rand Answers",NULL,8,46
+140,"Tales of Beedle the Bard",NULL,8,46
+141,"Unpopular Essays",NULL,8,46
+143,"Empire of the Mughal - Raiders from the North",NULL,8,46
+144,"Empire of the Mughal - The Serpent's Tooth",NULL,8,46
+145,"Empire of the Mughal - Ruler of the World",NULL,8,46
+146,"Empire of the Mughal - Brothers at War",NULL,8,46
+147,"Empire of the Mughal - The Tainted Throne",NULL,8,46
+149,"More Tears to Cry",NULL,8,46
+152,"Courtroom Genius, The",NULL,8,46
+153,"Grapes of Wrath, The",NULL,8,46
+154,"Life in Letters, A",NULL,8,46
+164,"20000 Leagues Under the Sea",NULL,8,46
+166,"Short History of the World, A",NULL,8,46
+168,"Devil's Advocate, The",NULL,8,46
+169,"Veil: Secret Wars of the CIA",NULL,8,46
+171,"Dongri to Dubai",NULL,8,46
+172,"Batman Handbook",NULL,8,46
+173,"Attorney, The",NULL,8,46
+174,"Judge, The",NULL,8,46
+175,"Batman: The Long Halloween",NULL,8,46
+176,"History of the DC Universe",NULL,8,46
+177,"Death of Superman, The",NULL,8,46
+178,"Justice League: The Villain's Journey",NULL,8,46
+179,"Justice League: Throne of Atlantis",NULL,8,46
+180,"Superman Earth One - 2",NULL,8,46
+181,"Superman Earth One - 1",NULL,8,46
+182,"Crisis on Infinite Earths",NULL,8,46
+183,"Batman Earth One",NULL,8,46
+184,"Flashpoint",NULL,8,46
+185,"Killing Joke, The",NULL,8,46
+186,"Final Crisis",NULL,8,46
+187,"Karl Marx Biography",NULL,8,46
+190,"World's Greatest Trials, The",NULL,8,46
+200,"Urlasurla",NULL,8,167
+201,"Hafasavnuk",NULL,8,167
+202,"Batatyachi Chal",NULL,8,167
+203,"Vyakti ani Valli",NULL,8,167
+204,"Char Shabda",NULL,8,167
+205,"Apulki",NULL,8,167
+142,"History of Western Philosophy",33,8,46
+95,"Veteran, The",31,8,46
+107,"Clash of Civilizations and Remaking of the World Order",30,8,46
+188,"Selected Short Stories",29,8,46
+189,"World's Greatest Short Stories, The",29,8,46
+122,"Ashenden of The British Agent",28,8,46
+123,"Maugham's Collected Short Stories, Vol 3",28,8,46
+134,"Zen & The Art of Motorcycle Maintenance",28,8,46
+105,"Farewell to Arms, A",27,8,46
+126,"In a Free State",27,8,46
+199,"Mein Kampf",27,8,68
+67,"One",24,8,46
+91,"Great War for Civilization, The",23,8,46
+127,"Scoop!",23,8,46
+135,"Tales of Mystery and Imagination",23,8,46
+71,"Angels & Demons",22,8,46
+75,"Jurassic Park",22,8,46
+77,"Beyond the Three Seas",22,8,46
+84,"Complete Sherlock Holmes, The - Vol II",22,8,46
+85,"Complete Sherlock Holmes, The - Vol I",22,8,46
+88,"Dylan on Dylan",22,8,46
+92,"Pillars of the Earth, The",22,8,46
+102,"Brethren, The",22,8,46
+104,"Catch 22",22,8,46
+106,"Hunchback of Notre Dame, The",22,8,46
+110,"Trial, The",22,8,46
+160,"Amulet of Samarkand, The",22,8,46
+165,"Slaughterhouse Five",22,8,46
+170,"All the President's Men",22,8,46
+124,"Integration of the Indian States",21,8,46
+86,"Story of Philosophy, The",20,8,46
+98,"Maqta-e-Ghalib",19,8,46
+111,"Manasa",19,8,46
+206,"Aghal Paghal",19,8,167
+207,"Gun Gayin Awadi",19,8,167
+208,"Radiowaril Bhashane & Shrutika",19,8,167
+209,"Asami Asami",19,8,167
+210,"Ahe Manohar Tari",19,8,167
+133,"Last Lecture, The",16,8,46
+113,"Freedom at Midnight",15,8,46
+114,"City of Joy, The",15,8,46
+115,"O Jerusalem!",15,8,46
+73,"Uncommon Wisdom",14,8,46
+65,"Prisoner of Birth, A",12,8,46
+66,"False Impressions",12,8,46
+69,"Complete Mastermind, The",11,8,46
+37,"Russian Journal, A",4,8,46
+70,"To Sir With Love",4,8,46
+72,"Outsider, The",4,8,46
+78,"Last Mughal, The",4,8,46
+79,"Beautiful and the Damned, The",4,8,46
+83,"Crime and Punishment",4,8,46
+89,"Age of Wrath, The",4,8,46
+99,"Sea of Poppies",4,8,46
+101,"Doctor in the Nude",4,8,46
+103,"Raisin in the Sun, A",4,8,46
+130,"Down and Out in Paris & London",4,8,46
+138,"We the Living",4,8,46
+139,"Return of the Primitive",4,8,46
+148,"Orientalism",4,8,46
+150,"Identity & Violence",4,8,46
+155,"Burning Bright",4,8,46
+156,"Winter of Our Discontent, The",4,8,46
+157,"Moon is Down, The",4,8,46
+158,"Once There Was a War",4,8,46
+159,"Journal of a Novel",4,8,46
+161,"Bookless in Baghdad",4,8,46
+162,"Great Indian Novel, The",4,8,46
+163,"India from Midnight to Milennium",4,8,46
+167,"New Machiavelli, The",4,8,46
+151,"Argumentative Indian, The",2,8,46
+60,"Journal of Economics, vol 106 No 3",NULL,12,46
+58,"Rationality & Freedom",34,12,46
+63,"Social Choice & Welfare, Vol 39 No. 1",34,12,46
+61,"Econometric Analysis",25,12,46
+62,"Textbook of Economic Theory",25,12,46
+57,"Superfreakonomics",23,12,46
+53,"Age of Discontuinity, The",22,12,46
+59,"Wealth of Nations, The",22,12,46
+54,"Idea of Justice, The",4,12,46
+55,"New Markets & Other Essays",4,12,46
+56,"Freakonomics",4,12,46
+13,"Think Complexity",NULL,13,46
+14,"Pattern Classification",NULL,13,46
+15,"Image Processing with MATLAB",NULL,13,46
+18,"Design with OpAmps",NULL,13,46
+23,"Neural Networks",NULL,13,46
+24,"Data Analysis with Open Source Tools",NULL,13,46
+25,"Pointers in C",NULL,13,46
+28,"Power Electronics - Mohan",NULL,13,46
+32,"Power Electronics - Rashid",NULL,13,46
+33,"Cathedral and the Bazaar, The",NULL,13,46
+41,"Elements of Information Theory",NULL,13,46
+42,"Statistical Learning Theory",NULL,13,46
+45,"Men of Mathematics",NULL,13,46
+46,"Numbers Behind Numb3rs, The",NULL,13,46
+47,"Information, The",NULL,13,46
+49,"Code Book, The",NULL,13,46
+50,"Simpsons & Their Mathematical Secrets",NULL,13,46
+51,"Structure and Randomness",NULL,13,46
+43,"Nature of Statistical Learning Theory, The",34,13,46
+26,"Let Us C",32,13,46
+38,"Data Structures Using C & C++",32,13,46
+40,"Principles of Communication Systems",26,13,46
+17,"Computer Vision, A Modern Approach",25,13,46
+44,"Artist and the Mathematician, The",17,13,46
+34,"Image Processing & Mathematical Morphology",13,13,46
+16,"Data Smart",10,13,46
+19,"Fundamentals of Wavelets",10,13,46
+52,"Birth of a Theorem",9,13,46
+21,"Data Scientists at Work",8,13,46
+29,"Data Mining Handbook",8,13,46
+20,"Soft Computing & Intelligent Systems",7,13,46
+12,"Introduction to Algorithms",6,13,46
+31,"Statistical Decision Theory'",6,13,46
+36,"Structure & Interpretation of Computer Programs",6,13,46
+39,"Analysis, Vol I",5,13,46
+22,"God Created the Integers",4,13,46
+35,"Signal and the Noise, The",4,13,46
+48,"Drunkard's Walk, The",4,13,46
+10,"Learning OpenCV",3,13,46
+11,"Machine Learning for Hackers",3,13,46
+27,"Python for Data Analysis",3,13,46
+30,"Making Software",3,13,46
+4,"Oxford book of Modern Science Writing",NULL,14,46
+8,"Broca's Brain",NULL,14,46
+9,"World's Great Thinkers, The",NULL,14,46
+6,"Theory of Everything, The",29,14,46
+2,"Hidden Connections, The",23,14,46
+5,"Surely You're Joking Mr Feynman",22,14,46
+1,"Electric Universe",4,14,46
+3,"Tao of Physics, The",4,14,46
+7,"Physics & Philosophy",4,14,46
+191,"On Education",33,16,46
+192,"Beyond Degrees",23,16,46
